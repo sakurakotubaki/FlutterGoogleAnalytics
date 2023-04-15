@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "431279894251",
+    "project_id": "analiticstutorial-ce0a6",
+    "storage_bucket": "analiticstutorial-ce0a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431279894251:android:f66ca6524085dc99a3d8ae",
+        "android_client_info": {
+          "package_name": "com.example.anlytics_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431279894251-tqat468sf3b9fqcvc5lvgn9b8mu1jlfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmptcSTjZHVNDI3T6vHYXe9MKVmAvbl08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431279894251-tqat468sf3b9fqcvc5lvgn9b8mu1jlfd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
